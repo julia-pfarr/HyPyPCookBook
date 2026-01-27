@@ -37,7 +37,7 @@ jupyter notebook notebooks/hello_synchrony.ipynb
 
 ## Brainhack Montreal 2026
 
-This Cookbook was initiated during [Brainhack Montreal 2026](https://brainhack.org/).
+This Cookbook was initiated during [Brainhack Montreal 2026][https://brainhack.org/](https://brainhackmtl.github.io/winter2026/).
 
 ### Project Goals
 
