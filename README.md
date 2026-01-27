@@ -25,6 +25,7 @@ poetry install
 ```bash
 git clone https://github.com/ppsp-team/HyPyPCookbook.git
 cd HyPyPCookbook
+pip install -r requirements.txt
 ```
 
 ### 3. Run your first notebook

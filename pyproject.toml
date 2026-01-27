@@ -1,0 +1,17 @@
+[project]
+name = "hypypcookbook"
+version = "0.1.0"
+description = ""
+authors = [
+    {name = "Ramdam17",email = "remy.ramadour.labs@gmail.com"}
+]
+readme = "README.md"
+requires-python = ">=3.10,<3.15"
+dependencies = [
+    "hypyp (>=0.5.0b16,<0.6.0)"
+]
+
+
+[build-system]
+requires = ["poetry-core>=2.0.0,<3.0.0"]
+build-backend = "poetry.core.masonry.api"

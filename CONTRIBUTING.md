@@ -29,7 +29,7 @@ This project follows the [Brainhack Code of Conduct](https://docs.google.com/doc
 
 ### Prerequisites
 
-- Python 3.9 or higher
+- Python >= 3.10, < 3.14
 - Git
 - A GitHub account
 
@@ -47,16 +47,9 @@ git remote add upstream https://github.com/ppsp-team/HyPyPCookbook.git
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
 
-# 4. Install the Cookbook in development mode
-pip install -e ".[dev]"
-
-# 5. Install HyPyP
-pip install hypyp
-# Or for development:
-# git clone https://github.com/ppsp-team/HyPyP.git ../HyPyP
-# pip install -e ../HyPyP
-
-# 6. Verify installation
+# 4. Install dependencies
+pip install -r requirements.txt
+# 5. Verify installation
 python -c "import hypyp; print('HyPyP version:', hypyp.__version__)"
 ```
 
