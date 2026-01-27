@@ -6,7 +6,7 @@ This repository contains tutorials, documentation, and examples to help you go f
 
 ---
 
-## 🚀 Quick Start
+## Quick Start
 
 ### 1. Install HyPyP
 
@@ -67,11 +67,11 @@ We have issues for all skill levels:
 | **Intermediate** (Python) | Notebooks, CI setup, pitfalls page |
 | **Advanced** (engineering) | Stats rework, performance optimization, API fixes |
 
-👉 **[View all issues](https://github.com/ppsp-team/HyPyPCookbook/issues)**
+**[View all issues](https://github.com/ppsp-team/HyPyPCookbook/issues)**
 
 ---
 
-## 🤝 Contributing
+## Contributing
 
 We welcome contributions of all kinds! See [CONTRIBUTING.md](CONTRIBUTING.md) for:
 
@@ -84,7 +84,7 @@ We welcome contributions of all kinds! See [CONTRIBUTING.md](CONTRIBUTING.md) fo
 
 ---
 
-## 👥 Contributors
+## Contributors
 
 Thanks to everyone who has contributed to this Cookbook!
 
@@ -94,7 +94,7 @@ Thanks to everyone who has contributed to this Cookbook!
 
 <!-- ALL-CONTRIBUTORS-LIST:END -->
 
-## 📚 Related Resources
+## Related Resources
 
 - **HyPyP main repository:** https://github.com/ppsp-team/HyPyP
 - **HyPyP paper:** [Frontiers article](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.684813/full)
@@ -102,6 +102,6 @@ Thanks to everyone who has contributed to this Cookbook!
 
 ---
 
-## 📄 License
+## License
 
 This project is licensed under the BSD 3-Clause License — see the [LICENSE](LICENSE) file for details.
