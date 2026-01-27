@@ -37,7 +37,7 @@ jupyter notebook notebooks/hello_synchrony.ipynb
 
 ## Brainhack Montreal 2026
 
-This Cookbook was initiated during [Brainhack Montreal 2026][https://brainhack.org/](https://brainhackmtl.github.io/winter2026/).
+This Cookbook was initiated during [Brainhack Montreal 2026](https://brainhackmtl.github.io/winter2026/).
 
 ### Project Goals
 
@@ -97,7 +97,7 @@ Thanks to everyone who has contributed to this Cookbook!
 ## Related Resources
 
 - **HyPyP main repository:** https://github.com/ppsp-team/HyPyP
-- **HyPyP paper:** [Frontiers article](https://www.frontiersin.org/articles/10.3389/fpsyg.2021.684813/full)
+- **HyPyP paper:** https://pmc.ncbi.nlm.nih.gov/articles/PMC7812632/pdf/nsaa141.pdf
 - **MNE-Python:** https://mne.tools/
 
 ---
