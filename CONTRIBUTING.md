@@ -278,7 +278,7 @@ We believe in recognizing all contributions, not just code.
 ### Contribution types we recognize
 
 | Type | Description |
-|-------|------|-------------|
+|------|-------------|
 | Code | Writing code, scripts |
 | Documentation | README, guides, docstrings |
 | Tutorials | Jupyter notebooks, examples |
